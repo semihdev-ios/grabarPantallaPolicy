@@ -88,7 +88,7 @@ When you submit a selfie for analysis, your photo is sent securely to Google Gem
                 Price: $6.99
 
                 Functional links to the privacy policy and Terms of Use (EULA): Privacy Policy | Terms of Use
-                https://github.com/semihdev-ios/GlowCamPolicy/blob/main/policy.text                
+                https://github.com/semihdev-ios/grabarPantallaPolicy/blob/main/policy.txt               
                 
                 Cancellation
                 If you wish to cancel your subscription, you must do so before the end of the current subscription period. Once cancelled, your subscription will remain active until the end of the current billing cycle.
